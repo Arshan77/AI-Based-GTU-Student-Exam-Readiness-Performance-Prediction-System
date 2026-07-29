@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based GTU Student Exam Readiness & Performance Prediction System
 
 An AI-powered educational analytics web application designed specifically for Gujarat Technological University (GTU) students, faculty, and academic advisors. The system predicts exam readiness, pass probability (%), official GTU grades (`AA`, `AB`, `BB`, `BC`, `CC`, `CD`, `DD`, `FF`), performance risk categories, and provides domain-tailored revision topic guidance.
@@ -113,3 +114,7 @@ Access the application in your browser at: `http://127.0.0.1:5000`
 - **Phase 3: Flask REST APIs & Backend Engine** — Completed & Verified.
 - **Phase 4: SaaS Frontend UI & Dynamic Stepper Dashboard** — Completed & Verified.
 - **Phase 5: System Integration, PDF Export & Final Polish** — Completed & Verified.
+=======
+# AI-Based-GTU-Student-Exam-Readiness-Performance-Prediction-System
+GTU InsightAI is an AI-powered web application that helps GTU students analyse academic performance, predict final grades, track progress, and receive personalised exam readiness insights through interactive dashboards and data-driven analytics.
+>>>>>>> 62806bb2a2b80b1faace1b92f1e64ed9da87f3d2
